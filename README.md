@@ -1,24 +1,23 @@
 ![logo](https://github.com/siddhartha1104/siddhartha1104/blob/main/LinkedIn%20Banner.png)
 <h1 align="center">Hi 👋, I'm Siddhartha Pathak</h1>
-<h3 align="center">Aspiring Data Scientist | Enthusiastic Learner and Problem Solver in the Data World</h3>
+<h3 align="center">Flutter Android and iOS Developer | Aspiring Data Scientist | Enthusiastic Learner and Problem Solver in the Data World</h3>
 
 <img align="right" alt="coding gif" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=siddhartha1104&label=Profile%20views&color=0e75b6&style=flat" alt="siddhartha1104" /> </p>
 
-- 🔭 I’m currently working on **Data Science**
+- 🔭 I’m currently working on **Flutter App Development**
 
-- 🌱 I’m currently learning **Data Science and Machine Learning**
+- 💬 Ask me about **Flutter | Data Science**
 
-- 💬 Ask me about **Data Science**
-
-- 📫 How to reach me **siddhartha.pathak0216@gmail.com**
+- 📫 How to reach me **sidx404@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/siddhartha_404" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="siddhartha_404" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/siddharthapathak" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="siddharthapathak" height="30" width="40" /></a>
 <a href="https://instagram.com/siddhartha_404" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="siddhartha_404" height="30" width="40" /></a>
+
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
