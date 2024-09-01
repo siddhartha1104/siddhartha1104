@@ -1,4 +1,4 @@
-![logo](https://github.com/siddhartha1104/siddhartha1104/blob/main/LinkedIn%20Banner.png)
+![logo](https://github.com/siddhartha1104/siddhartha1104/blob/main/IMG_4623.jpg)
 <h1 align="center">Hi 👋, I'm Siddhartha Pathak</h1>
 <h3 align="center">Flutter Android and iOS Developer | Aspiring Data Scientist | Enthusiastic Learner and Problem Solver in the Data World</h3>
 
