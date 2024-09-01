@@ -10,7 +10,7 @@
 
 - 💬 Ask me about **Flutter | Data Science**
 
-- 📫 How to reach me **sidx404@gmail.com**
+- 📫 How to reach me **contact@siddharthapathak.com.np**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
