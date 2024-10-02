@@ -1,7 +1,7 @@
 ![logo](https://github.com/siddhartha1104/siddhartha1104/blob/main/IMG_4623.jpg)
 
 <h1 align="center">
-  <a href="https://github.com/siddhartha1104"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=45F71E&random=false&width=435&lines=Hi+There+👋,+It's+me+Siddhartha+Pathak"></a>
+  <a href="https://github.com/siddhartha1104"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=45F71E&random=false&width=435&lines=Hi+👋,+It's+me+Siddhartha+Pathak"></a>
 </h1>
 
 
