@@ -4,12 +4,10 @@
   <a href="https://github.com/siddhartha1104"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=45F71E&random=false&width=435&lines=Hi+👋,+It's+me+Siddhartha+Pathak"></a>
 </h1>
 
-
 <a href="https://komarev.com/ghpvc/?username=alsiam">
   <img align="right" src="https://komarev.com/ghpvc/?username=siddhartha1104&label=Visitors&color=1422F7&style=flat" alt="Profile visitor count" />
 </a>
 <h3 align="center"> Tech Enthusiast </h3>
-
 
 <p align="center">
  <a href="https://siddharthapathak.com.np/" target="_blank">
@@ -35,7 +33,6 @@
   </br>
 </p> -->
 
-
 <p align="center">
   <a href="https://github.com/siddhartha1104">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=siddhartha1104&theme=radical&border=7F3FBF&background=0D1117" alt="Siddhartha pathak streak"/>
@@ -53,5 +50,10 @@
     <a href="https://github.com/siddhartha1104"><img alt="Siddhartha's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=siddhartha1104&langs_count=4&layout=compact&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
 </p>
 
-
 ![Siddhartha's Graph](https://github-readme-activity-graph.vercel.app/graph?username=siddhartha1104&custom_title=Siddhartha%Pathak's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/siddhartha1104/siddhartha1104/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/siddhartha1104/siddhartha1104/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/siddhartha1104/siddhartha1104/output/github-snake.svg" />
+</picture>
